@@ -51,11 +51,11 @@ body{
   }
   .modal-header {
     background-color: $background-dark;
-    color: $lt-gray;
+    color: $background-pale;
     font-weight: bolder;
   }
   .close {
-    color: $lt-gray;
+    color: $background-pale;
   }
 
 .tab-content {
