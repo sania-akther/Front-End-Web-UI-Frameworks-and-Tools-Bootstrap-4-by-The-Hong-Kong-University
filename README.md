@@ -2,7 +2,7 @@
 
  _This repository contains all of the source code used in the course called Front-End Web UI Frameworks and Tools: Bootstrap 4 offered by The Hong Kong University of Science and Technology on Coursera._
 
- ![course complitation certificate](htpps://)
+ ![course Completion certificate](https://github.com/sania-akther/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4-by-The-Hong-Kong-University/blob/master/Front-End%20Web%20UI%20Frameworks%20and%20Tools%20Bootstrap%204.JPG)
 
 # Assignments:
 * Week-1-coding
